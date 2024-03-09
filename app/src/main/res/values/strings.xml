@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">HealthierLifestyle</string>
+
+
+    <integer-array name="images">
+        <item>@drawable/chickenstroganoff</item>
+        <item>@drawable/harissafish</item>
+        <item>@drawable/mexicanstew</item>
+        <item>@drawable/shreddedchicken</item>
+    </integer-array>
+
+    <string-array name="titles">
+        <item>Chicken stroganoff</item>
+        <item>Harissa fish with bulgur salad</item>
+        <item>Mexican chicken stew with quinoa and beans</item>
+        <item>Crispy shredded chicken</item>
+    </string-array>
+
+    <string-array name="cookTime">
+        <item>30min</item>
+        <item>20min</item>
+        <item>30min</item>
+        <item>20min</item>
+    </string-array>
+
+    <integer-array name="ingredientNum">
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>10</item>
+    </integer-array>
+
+    <integer-array name="imagesc">
+        <item>@drawable/searedsalmon</item>
+        <item>@drawable/broccolisteaks</item>
+        <item>@drawable/squashsoup</item>
+        <item>@drawable/panfish</item>
+    </integer-array>
+
+    <string-array name="titlesc">
+        <item>Seared salmon with charred green beans</item>
+        <item>Broccoli steaks with spicy tomato jam</item>
+        <item>Air fryer squash soup</item>
+        <item>Sheet pan fish and vegetables</item>
+    </string-array>
+
+    <string-array name="cookTimec">
+        <item>15min</item>
+        <item>40min</item>
+        <item>45min</item>
+        <item>25min</item>
+    </string-array>
+
+    <integer-array name="ingredientNumc">
+        <item>8</item>
+        <item>8</item>
+        <item>11</item>
+        <item>11</item>
+    </integer-array>
+
+    <string-array name="exerciseLvl">
+        <item>ABS-beginner</item>
+        <item>ARMS-beginner</item>
+        <item>CHEST-beginner</item>
+    </string-array>
+
+    <integer-array name="imagesE">
+        <item>@drawable/absbeginner</item>
+        <item>@drawable/armsbeginner</item>
+        <item>@drawable/chestbeginner</item>
+    </integer-array>
+</resources>

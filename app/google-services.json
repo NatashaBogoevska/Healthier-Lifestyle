@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516521052049",
+    "project_id": "healthierlifestyle-e831e",
+    "storage_bucket": "healthierlifestyle-e831e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516521052049:android:19569684675a05eb62fc30",
+        "android_client_info": {
+          "package_name": "com.example.healthierlifestyle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpeEC6_RB7QEVuXs3XViD1dhcc5jzDvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
